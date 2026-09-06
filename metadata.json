@@ -1,0 +1,6 @@
+{
+  "name": "Optimus Prime",
+  "description": "Emotion-Aware AI Companion with real-time facial emotion recognition and adaptive conversational intelligence.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
